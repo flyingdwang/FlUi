@@ -4,7 +4,8 @@ dist/
 fl-ui/
 npm-debug.log
 yarn-error.log
- 
+git-token.txt 
+
 # Editor directories and files
 .idea
 *.suo
